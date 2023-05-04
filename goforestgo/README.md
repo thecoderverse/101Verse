@@ -1,6 +1,5 @@
 # GO FOREST GO
 
-Yeni bir programlama dilini öğrenirken doküman ve bir takım 
 Merhabalaar :)
 
 Go öğrenme yolculuğu için aşağıdaki konu başlıkları ile bu repo üzerinden Go dilini öğrenmeye çalışacağız. Şimdiden herkese faydalı olması dileklerimle...
