@@ -1,4 +1,4 @@
-# 101Verse
+# GO FOREST GO
 
 Yeni bir programlama dilini öğrenirken doküman ve bir takım 
 Merhabalaar :)
